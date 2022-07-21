@@ -19,7 +19,7 @@ const About = () => {
         <PageContainer>
             <Navbar />
             <SubHeading>
-                Hi there, I'm Kevin!
+                Hi there, I'm poop Kevin!
             </SubHeading>
             <Text>
                 I'm currently a computer science student at the University of Waterloo. I enjoy writing code and building things that can have an impact
