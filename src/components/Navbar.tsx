@@ -37,7 +37,7 @@ const Navbar = () => {
                 <Link to='/experience'>
                     experience
                 </Link>
-                <ExternalLink href="/car/index.html" target="_blank">
+                <ExternalLink href="/car/vroom.html" target="_blank">
                     vroom vroom
                 </ExternalLink>
             </LinkContainer>
