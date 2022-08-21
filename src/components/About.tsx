@@ -19,15 +19,15 @@ const About = () => {
         <PageContainer>
             <Navbar />
             <SubHeading>
-                Hi there, I'm Kevin!
+                Hi there, I'm Kevin! 👋
             </SubHeading>
             <Text>
-                I'm currently a computer science student at the University of Waterloo. I enjoy writing code and building things that can have an impact
-                on my community.
+                I'm a software engineer with interests in data engineering, backend development, and database systems. I am currently studying
+                computer science at the University of Waterloo, with an expected graduation date of April 2024.
             </Text>
             <Text>
-                Outside of school, I enjoy being active and playing sports. I currently play badminton on the University of Waterloo Warrior's 
-                Varsity badminton team. I also like to snowboard, rock climb, and I'm currently learning how to skateboard!
+                Outside of school, I enjoy being active and playing sports. I'm also an avid badminton player, 
+                having competed on the Canadian junior national team for four years. You can also find me rock climbing, snowboarding, and learning to skateboard! 
             </Text>
         </PageContainer>
     )
