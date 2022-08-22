@@ -25,11 +25,16 @@ const ExternalLink = styled.a`
     text-decoration: none;
     color: black;
 `
+
+const Name = styled.h1`
+    color: #379683
+`
+
 const Navbar = () => {
 
     return (
         <NavContainer>
-            <h1>Kevin Wang</h1>
+            <Name>Kevin Wang</Name>
             <LinkContainer>
                 <Link to='/'>
                     about
